@@ -1,6 +1,6 @@
 # PwC Switzerland Power BI Job Simulation  
 **PwC_Switzerland_PowerBI:** <br>
-I recently completed PwC Switzerland's Power BI job simulation on Forage, where I honed my skills in data visualization and analysis. I created interactive Power BI dashboards to visualize key performance indicators (KPIs), analyzed gender-related HR data, and delivered actionable insights, focusing on diversity and inclusion.
+I recently completed PwC Switzerland's Power BI job simulation on Forage, where I honed my skills in data visualization and analysis. I created interactive Power BI dashboards to visualize key performance indicators (KPIs), analyzed gender-related HR data, and delivered actionable insights, focusing on diversity and inclusion..
 
 **Repository Overview:**  
 This repository showcases my experience in PwC Switzerland's Power BI job simulation on the Forage platform. During this simulation, I developed my data visualization skills, particularly in using Power BI to analyze and visualize key performance indicators (KPIs). I focused on HR data to examine gender-related KPIs and provided actionable insights to promote diversity and inclusion at the executive level.
